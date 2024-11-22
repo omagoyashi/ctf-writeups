@@ -1,4 +1,6 @@
 # Beginner's BOF
+84 points
+
 Source is from https://github.com/SECCON/Beginners_CTF_2022
 
 The source file included with the challenge has a win function:
